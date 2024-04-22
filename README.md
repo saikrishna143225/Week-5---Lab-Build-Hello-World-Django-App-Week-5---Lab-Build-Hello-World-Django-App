@@ -12,3 +12,7 @@ python manage.py runserver
 ## Accessing the Hello World JSON response:
 After starting the server, navigate to http://127.0.0.1:8000/ in web browser. we should see the JSON response:
 {"Message": "Hello World!"}
+
+
+## Output
+![image](https://github.com/saikrishna143225/Week-5---Lab-Build-Hello-World-Django-App-Week-5---Lab-Build-Hello-World-Django-App/assets/167499024/b30140ff-ffe1-4127-aa43-a19ddf7b32f2)
